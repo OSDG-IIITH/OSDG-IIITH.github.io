@@ -10,3 +10,18 @@
         "page",
         "icons"
 ;
+
+/* OSDG image as background */
+.custombg{
+        background-color: #FFFFFF;
+        background-image:url('https://scontent.fbom2-1.fna.fbcdn.net/v/t31.0-8/26172346_1731040266946028_579203958517985629_o.jpg?_nc_cat=110&_nc_sid=825194&_nc_ohc=326eTLI4BwkAX--rAdR&_nc_ht=scontent.fbom2-1.fna&oh=94080deaeb6858f1df027d0710af92e3&oe=5F07FE27');
+        background-repeat:no-repeat;
+        height:70%;
+        width:auto;
+        background-position: center 30%;
+}
+
+/* blurring the image to increase readability */
+.blur{
+        backdrop-filter: blur(10px);
+}
