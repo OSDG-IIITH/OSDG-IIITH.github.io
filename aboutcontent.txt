@@ -1,0 +1,27 @@
+Have you read on quora a question saying-"What is the reason for the enormous GSoC selections for IIIT Hyderabad? Do they have a GSoC chapter or something, or is GSoC seen as a summer course?" :p
+Answer is definately no xD. 
+But we do have Open-Source-Development-Group,popularly known as OSDG. Open Source Developers Group (OSDG) at IIIT-H is a group of enthusiasts of the Open Source culture. Open Source Software have their source code freely available to everyone with an internet connection to use, modify and distribute. It is not out of the ordinary to see the GitHub profiles of the members filled with shades of green from all their contributions to Open Source Software.
+
+
+
+Intro to OPEN-SOURCE:-
+       "In India,open source code software have to come and stay in a big way for the benefit of our billion people"
+       -A.P.J. Abdul Kalam 
+
+Proprietary software is like a chocolate you buy at a store. It comes manufactured and all wrapped up. All you can is eat it. If you really like it, you might recommend that chocolate to your friends, or you might buy more of those chocolates from a store and distribute it to your class on your birthday. If you're extremely confident about your culinary skills, you might try to reverse-engineer it.
+
+Open Source Software, however, is like that chocolate you make at home with your friends! You're having a sleepover and suddenly you and your friends crave some chocolate. You enter the kitchen and find the best ingredients, mix them in a bowl, and sum up your courage to have a taste. You realize you shouldn't have added Oregano in hindsight. Your friend tries to make a small batch with sprinkles added to it - that made it better! Mom isn't going to be happy with a mess in the kitchen, don't make a mess!. Another friend of yours experimented with some nougat, another found the perfect amount of sugar to add, one found the right temperature to melt the chocolate.
+
+Could you have made such a good chocolate on your own without having your friends collaborate?
+The Open Source Community is a huge family that is based on the purest human intention of helping others, contributing to society and, in general, trying to make the world a better place .
+With Open Source software, you have the freedom to run it, study how it works and adapt it to suit your own personal needs. 
+Firefox, Chrome, OpenOffice, Linux, and Android are some popular examples of open-source software. Infact,
+Linux, open source operating system (OS) has also become the largest open source software project in the world.
+
+Open source is about a lot more than code.it is fascinating how community, meritocracy, and a free exchange of ideas can unlock potential across a range of disciplines. A few things find their place everywhere though. All communities of all orgs are extremely helpful and supportive to newbies. Well, that, and they all use some form of Version Control (usually git).
+
+
+Heard of GSoC ?!!
+Google Summer of Code ,GSoC is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer.
+Want to start-
+Look for orgs from GSoC website , most of them will have a how to contribute guide , choose your target field, filter by language , read up about the organisations. Another thing you could do is open the project git repos from the orgs, find the issues labelled as good first issues and try to fix those ,Make sure you ask before taking up the issue and that no one has been assigned to it already ,Contact your organisation (and seniors who may have contributed there), keep in touch, make small progresses all the time (even editing documentation helps!), take a project which seems challenging (as opposed to something you feel is easy), do it well.
