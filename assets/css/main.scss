@@ -11,27 +11,18 @@
         "icons"
 ;
 
-/* OSDG image as background */
+/* Image as background */
 .custombg{
-        background-color: #FFFFFF;
-        /*
-        background-image: url('https://images.pexels.com/photos/1908284/pexels-photo-1908284.jpeg?cs=srgb&dl=black-wallpaper-coding-computer-developer-1908284.jpg&fm=jpg');
-        */
-
+        background-color:#FFFFFF;
+  
         background-image:url('{{ site.baseurl }}/assets/img/backgrounds/design.jpg');
 
-        /*
-        filter: blur(50px);
-        -webkit-filter: blur(50px);
-        */
-
-        /*height:70%;
-        width:auto;*/
         background-size: cover;
         background-position: center center;
 }
 
-/* blurring the image to increase readability */
+/* Blurring the image to increase readability */
 .blur{
+        -webkit-backdrop-filter: blur(3px);
         backdrop-filter: blur(3px);
 }
