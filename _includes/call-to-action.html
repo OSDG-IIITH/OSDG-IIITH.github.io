@@ -1,13 +1,11 @@
 <section id="{{ section.section_id }}" class="page-section custombg">
-  <div class="blur">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-8 {{ section.text_style | default: 'text-center' }}">
-          <h2 class="text-dark mt-0 text-center">{{ section.title }}</h2>
-          <div class="text-dark font-weight-bold mb-4 ">{{ section.text | markdownify }}</div>
+        <div class="blur col-lg-8 {{ section.text_style | default: 'text-center' }}">
+          <h2 class="text-white mt-0 text-center">{{ section.title }}</h2>
+          <div class="text-white font-weight-bold mb-4 ">{{ section.text | markdownify }}</div>
         </div>
       </div>
       {% include actions.html actions=section.actions %}
     </div>
-  </div>
 </section>
