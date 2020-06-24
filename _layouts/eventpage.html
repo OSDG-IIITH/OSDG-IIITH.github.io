@@ -1,0 +1,56 @@
+---
+layout: base
+---
+<head>
+  <link href="http://fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300,800" rel="stylesheet" type="text/css">
+	<link href="{{ site.baseurl }}assets/timeline/css/main.css" rel="stylesheet">
+
+</head>
+<header class="masthead">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center justify-content-center text-center">
+  
+        <div class="col-lg-8 align-self-end">
+          <p class="text-white-75 font-weight-light mb-5">The OSDG group has been conducted numerous events <br> both inter-college and intra-college to instill in young minds <br> interest for the field of Open Source Development.</p>
+        </div>
+  
+        <div class="col-lg-10 align-self-baseline">
+  
+          <h1 class="text-white font-weight-bold">Our Roadmap from Past <br> to Future <br> via Present. </h1>
+          <hr class="divider my-4">
+          
+          {% if page.header.action %}
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{ page.header.action.label }}</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </header>
+
+<body style="background-color: rgb(255, 200, 97);">
+    <section id="{{ page.title }}" class=" content-section text-center">
+        <ul class="timeline">
+            {% for post in site.posts %}
+            {%if post.path contains 'eventsPosts' %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% capture class %}
+              {% if loopindex == 0 %}
+                timeline-inverted
+              {% endif %}
+            {% endcapture %}
+
+            <li class="{{ class }} timeline-event">
+                <label class="timeline-event-icon"></label>
+              <div class="timeline-event-copy">
+                <p class="timeline-event-thumbnail">{{post.datetitle}}</p>
+                <h3>{{post.title}}</h3>
+                <h4>{{post.subtitle}}</h4>
+                <a href="#"><img src="{{post.image}}" class="event-image"></a>
+                <p>{{post.content}}</p>
+              </div>
+            </li>
+            {% endif %}
+          {% endfor %}
+          </ul>  
+      </section>
+</body>
