@@ -1,0 +1,19 @@
+Open Source Developers Group (OSDG) at IIIT-H is a group of enthusiasts of the Open Source culture. Open Source Software have their source code freely available to everyone with an internet connection to use, modify and distribute. It is not out of the ordinary to see the GitHub profiles of the members filled with shades of green from all their contributions to Open Source Software.
+
+About Open Source:
+Proprietary software is like a chocolate you buy at a store. It comes manufactured and all wrapped up. All you can is eat it. If you really like it, you might recommend that chocolate to your friends, or you might buy more of those chocolates from a store and distribute it to your class on your birthday. If you're extremely confident about your culinary skills, you might try to reverse-engineer it.
+
+Open Source Software, however, is like that chocolate you make at home with your friends! You're having a sleepover and suddenly you and your friends crave some chocolate. You enter the kitchen and find the best ingredients, mix them in a bowl, and sum up your courage to have a taste. You realize you shouldn't have added Oregano in hindsight. Your friend tries to make a small batch with sprinkles added to it - that made it better! Mom isn't going to be happy with a mess in the kitchen, don't make a mess!. Another friend of yours experimented with some nougat, another found the perfect amount of sugar to add, one found the right temperature to melt the chocolate.
+
+Could you have made such a good chocolate on your own without having your friends collaborate? In all its glory, the Open Source Community is a huge family that is based on the purest human intention of helping others, contributing to society and, in general, trying to make the world a better place (or the best chocolate!). With Open Source software, you have the freedom to run it, study how it works and adapt it to suit your own personal needs.
+
+Personal Anecdotes:
+//TODO
+
+Past Events And Activities:
+//TODO
+
+
+
+Getting Started With Open Source:
+//TODO
