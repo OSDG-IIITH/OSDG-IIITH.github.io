@@ -1,0 +1,6 @@
+---
+layout: null
+name: title
+link: "www.google.com"
+image: "../assets/members/img/facebook.png"
+---
