@@ -13,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     title: What is OSDG?
-    text: We are the open source community of IIIT Hyderabad! We promote the use of and the contribution to Open Source software.
+    text: Open Source software is any computer software that's distributed with its source code available for modification and we are the Open Source Community of IIIT Hyderabad! We promote the use of and the contribution to Open Source software.
     actions:
       - title: About us
         url: '/about'
