@@ -12,13 +12,12 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: What is OSDG?
+    text: Open Source software is any computer software that's distributed with its source code available for modification and we are the Open Source Community of IIIT Hyderabad! We promote the use of and the contribution to Open Source software.
     actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+      - title: About us
+        url: '/about'
+        class: btn-primary
 
   - type: services.html
     section_id: services

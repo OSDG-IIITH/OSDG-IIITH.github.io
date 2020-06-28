@@ -10,3 +10,19 @@
         "page",
         "icons"
 ;
+
+/* Image as background */
+.custombg{
+        background-color:#FFFFFF;
+  
+        background-image:url('{{ site.baseurl }}/assets/img/backgrounds/design.jpg');
+
+        background-size: cover;
+        background-position: center center;
+}
+
+/* Blurring the image to increase readability */
+.blur{
+        -webkit-backdrop-filter: blur(3px);
+        backdrop-filter: blur(3px);
+}
